@@ -1,1 +1,0 @@
-{"version":3,"sources":["..\\src\\scss\\app.scss"],"names":[],"mappings":"AAAA;EACI;EACA;EACA;;;AAGJ;EACI","file":"app.3525348d.css","sourceRoot":"..\\public","sourcesContent":["* {\r\n    margin: 0;\r\n    padding: 0;\r\n    box-sizing: border-box;\r\n}\r\n\r\nbody {\r\n    background: rgb(184, 183, 183);\r\n}"]}
